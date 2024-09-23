@@ -4,3 +4,5 @@
 #### H4 header
 ##### H5 header
 ###### Last H6 header
+
+![Image of i-Code Live Logo](https://icodelive.tech/assets/images/logo.png)
